@@ -1,4 +1,4 @@
-package git.snippet.client;
+package git.snippet.server;
 
 
 import org.springframework.boot.SpringApplication;

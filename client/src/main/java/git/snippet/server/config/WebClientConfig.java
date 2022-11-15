@@ -1,4 +1,4 @@
-package git.snippet.client.config;
+package git.snippet.server.config;
 
 import org.springframework.cloud.client.DefaultServiceInstance;
 import org.springframework.cloud.client.ServiceInstance;

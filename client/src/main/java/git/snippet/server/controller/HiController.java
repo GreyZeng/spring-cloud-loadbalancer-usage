@@ -1,4 +1,4 @@
-package git.snippet.client.controller;
+package git.snippet.server.controller;
 
 import org.springframework.cloud.client.loadbalancer.reactive.ReactorLoadBalancerExchangeFilterFunction;
 import org.springframework.web.bind.annotation.RequestMapping;
